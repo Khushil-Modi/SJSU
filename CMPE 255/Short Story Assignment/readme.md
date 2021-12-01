@@ -4,4 +4,4 @@ Medium Article: https://medium.com/@khushilketankumar.modi/integrating-a-data-mi
 
 Presentation Link: https://www.slideshare.net/KhushilModi1/integrating-a-data-mining-engine-into-recommender-systems
 
-Youtube Link:
+Youtube Link: https://youtu.be/GnRKWCRrhSs
