@@ -1,2 +1,0 @@
-com/example/mysoundclassification/BuildConfig.java
- com.example.mysoundclassification.BuildConfig
