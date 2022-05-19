@@ -105,9 +105,10 @@ The GUI has been created using basic HTML, CSS and JavaScript and we have used F
 ![df01ae7c-afc9-4676-b95b-b6cec592ddf0 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/35571958/87902089-589f2d80-ca76-11ea-9eda-a53a83662721.gif)
 
 The outputs of the working system detecting drowsiness is shown as: <br>
+<a href="https://github.com/Khushil-Modi/SJSU/blob/main/CMPE%20258/Final%20Project/dataset/frame_yawn1.jpg" target="_blank>"Yawn Image</a> | <a href="https://github.com/Khushil-Modi/SJSU/blob/main/CMPE%20258/Final%20Project/dataset/frame_sleep1.jpg" target="_blank">Sleep Image</a>
 
-
-Also, in order to keep a proof of the moment when the person was sleeping or yawning, we kept a seperate folder where those frames are stored as: <br>
+Also, in order to keep a proof of the moment when the person was sleeping or yawning, we kept a seperate folder where those frames are stored as: [
+](https://github.com/Khushil-Modi/SJSU/blob/main/CMPE%20258/Final%20Project/dataset/frame_sleep1.jpg)<br>
 ![Screenshot (408)]([https://github.com/Khushil-Modi/SJSU/blob/main/CMPE%20258/Final%20Project/dataset/2022-05-19.png])
 
 ## Streaming using Phone Camera 
