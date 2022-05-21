@@ -40,7 +40,7 @@ conda deactivate
 Clone the repository into your system Or directly download the zip.
 
 ### Step 2: 
-Download the file <b>shape_predictor_68_face_landmarks.dat</b> Make sure you download it in the same folder. 
+Download the file <b>shape_predictor_68_face_landmarks.dat</b><br> Make sure you download it in the same folder. 
 
 ### Step 3: 
 Install all the system requirments by:
