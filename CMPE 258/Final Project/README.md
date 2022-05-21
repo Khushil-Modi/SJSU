@@ -37,14 +37,10 @@ conda deactivate
 ## Running the system: 
 
 ### Step 1: 
-Clone the repository into your system by: 
-```bash 
-git clone https://github.com/fear-the-lord/Drowsiness-Detection.git
-```
-Or directly download the zip.
+Clone the repository into your system Or directly download the zip.
 
 ### Step 2: 
-Download the file <b>shape_predictor_68_face_landmarks.dat</b><a href = "https://drive.google.com/file/d/14weZIclFncz8BMOmrkLp9PadLIccbSBa/view?usp=sharing"> here.</a> Make sure you download it in the same folder. 
+Download the file <b>shape_predictor_68_face_landmarks.dat</b> Make sure you download it in the same folder. 
 
 ### Step 3: 
 Install all the system requirments by:
