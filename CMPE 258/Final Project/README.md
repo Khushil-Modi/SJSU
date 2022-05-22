@@ -96,9 +96,8 @@ def mouth_aspect_ratio(mouth):
 <b>Note: Learn more about dlib</b> <a href = "http://dlib.net/">here.</a>
 
 ## Results: 
-The GUI has been created using basic HTML, CSS and JavaScript and we have used Flask to render the python code into the website. Tkinter has also been used in order to make things simpler. It has 2 buttons: Run and Exit. The GUI looks like: 
-![df01ae7c-afc9-4676-b95b-b6cec592ddf0 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/35571958/87902089-589f2d80-ca76-11ea-9eda-a53a83662721.gif)
-
+The GUI has been created using basic HTML, CSS and JavaScript and we have used Flask to render the python code into the website. Tkinter has also been used in order to make things simpler. <br>
+	
 The outputs of the working system detecting drowsiness is shown as: <br>
 <a href="https://github.com/Khushil-Modi/SJSU/blob/main/CMPE%20258/Final%20Project/dataset/frame_yawn1.jpg" target="_blank">Yawn Image</a> | <a href="https://github.com/Khushil-Modi/SJSU/blob/main/CMPE%20258/Final%20Project/dataset/frame_sleep1.jpg" target="_blank">Sleep Image</a>
 
@@ -121,7 +120,7 @@ Then, run the system in the same way as mentioned above. Click on the <b>Run Usi
 Also, in order to toggle between the front and back camera, type the IP upto "http://<YOUR_IP_HERE>" in the search bar of yor browser and explore the page which will look like this: <br>
 <img src = "https://user-images.githubusercontent.com/35571958/88626505-5f5a2000-d0c8-11ea-88f0-e1d4481eb9d9.png">
 
-Also, we have tried plotting the MAR and EAR graph Vs. Time in order to make the working clearer to the audience. The graph looks like: <br> 
+Also, we have tried plotting the MAR and EAR graph Vs. Time in order to make the understanding easier for people. The graph looks like: <br> 
 <img src = "https://user-images.githubusercontent.com/35571958/88627012-42721c80-d0c9-11ea-860a-51b7a1f2961b.png">
 
 
