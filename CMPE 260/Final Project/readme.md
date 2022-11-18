@@ -28,7 +28,7 @@ This AlphaGo Zero implementation consists of three worker `self`, `opt` and `eva
 
 ### Evaluation
 
-For evaluation, you can play chess with the BestModel.
+For evaluation, you can play connect4 with the BestModel.
 
 * `play_gui` is Play Game vs BestModel using ASCII character encoding.
 
@@ -123,7 +123,7 @@ python src/connect4_zero/run.py play_gui
 ```
 
 
-When executed, ordinary chess board will be displayed in ASCII code and you can play against BestModel.
+When executed, ordinary connect4 board will be displayed in ASCII code and you can play against BestModel.
 
 
 Tips and Memo
